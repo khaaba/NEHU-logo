@@ -1,2 +1,2 @@
 # NEHU-logo
-Created this logo four years ago. Wish others can improve it
+Created this logo about five years ago. Wish others can improve it.
