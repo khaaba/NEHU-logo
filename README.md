@@ -1,2 +1,3 @@
 # NEHU-logo
-Created this logo about five years ago. Wish others can improve it.
+Created this logo of North-Eastern Hill University (NEHU) about five years ago. The search for a quality logo for inclusion in the LaTeX document leads to this work. Wish others can improve it.
+Can be included in the letter head/document/...
